@@ -1,3 +1,0 @@
-main.adb:82:04: error: statement not allowed in declarative part
-main.adb:90:37: error: unrecognized attribute "Primero"
-main.adb:95:01: error: missing "begin" for procedure "Main" at line 6
