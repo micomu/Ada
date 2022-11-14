@@ -22,6 +22,7 @@ package body ada_main is
    E045 : Short_Integer; pragma Import (Ada, E045, "system__dwarf_lines_E");
    E021 : Short_Integer; pragma Import (Ada, E021, "system__soft_links__initialize_E");
    E037 : Short_Integer; pragma Import (Ada, E037, "system__traceback__symbolic_E");
+   E145 : Short_Integer; pragma Import (Ada, E145, "ada__numerics_E");
    E100 : Short_Integer; pragma Import (Ada, E100, "ada__strings__utf_encoding_E");
    E106 : Short_Integer; pragma Import (Ada, E106, "ada__tags_E");
    E098 : Short_Integer; pragma Import (Ada, E098, "ada__strings__text_buffers_E");
@@ -30,7 +31,9 @@ package body ada_main is
    E121 : Short_Integer; pragma Import (Ada, E121, "system__finalization_root_E");
    E119 : Short_Integer; pragma Import (Ada, E119, "ada__finalization_E");
    E118 : Short_Integer; pragma Import (Ada, E118, "system__file_io_E");
+   E153 : Short_Integer; pragma Import (Ada, E153, "ada__calendar_E");
    E094 : Short_Integer; pragma Import (Ada, E094, "ada__text_io_E");
+   E151 : Short_Integer; pragma Import (Ada, E151, "system__random_seed_E");
 
    Sec_Default_Sized_Stacks : array (1 .. 1) of aliased System.Secondary_Stack.SS_Stack (System.Parameters.Runtime_Default_Sec_Stack_Size);
 
@@ -186,6 +189,8 @@ package body ada_main is
       System.Traceback.Symbolic'Elab_Body;
       E037 := E037 + 1;
       E008 := E008 + 1;
+      Ada.Numerics'Elab_Spec;
+      E145 := E145 + 1;
       Ada.Strings.Utf_Encoding'Elab_Spec;
       E100 := E100 + 1;
       Ada.Tags'Elab_Spec;
@@ -205,9 +210,14 @@ package body ada_main is
       E119 := E119 + 1;
       System.File_Io'Elab_Body;
       E118 := E118 + 1;
+      Ada.Calendar'Elab_Spec;
+      Ada.Calendar'Elab_Body;
+      E153 := E153 + 1;
       Ada.Text_Io'Elab_Spec;
       Ada.Text_Io'Elab_Body;
       E094 := E094 + 1;
+      System.Random_Seed'Elab_Body;
+      E151 := E151 + 1;
    end adainit;
 
    procedure Ada_Main_Program;
@@ -245,9 +255,9 @@ package body ada_main is
    end;
 
 --  BEGIN Object file/option list
-   --   C:\GNAT\2021\CursoADA\02.Subprogramas\obj\main.o
-   --   -LC:\GNAT\2021\CursoADA\02.Subprogramas\obj\
-   --   -LC:\GNAT\2021\CursoADA\02.Subprogramas\obj\
+   --   C:\GNAT\2021\CursoADA\03.EjercicioJuego\obj\main.o
+   --   -LC:\GNAT\2021\CursoADA\03.EjercicioJuego\obj\
+   --   -LC:\GNAT\2021\CursoADA\03.EjercicioJuego\obj\
    --   -LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
    --   -static
    --   -lgnat

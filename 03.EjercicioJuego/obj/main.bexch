@@ -1,17 +1,17 @@
 [GENERATED OBJECT FILE]
 b__main.o
 [PROJECT FILES]
-C:\GNAT\2021\CursoADA\02.Subprogramas\default.gpr
-20221110100812 16cf9b5250b2eeed1de4e13bf0403744
+C:\GNAT\2021\CursoADA\03.EjercicioJuego\default.gpr
+20221111080920 5a3b2762a5470933d91d70704e60226e
 [BOUND OBJECT FILES]
-C:\GNAT\2021\CursoADA\02.Subprogramas\obj\main.o
+C:\GNAT\2021\CursoADA\03.EjercicioJuego\obj\main.o
 [GENERATED SOURCE FILES]
 b__main.ads
 b__main.adb
 b__main.ali
 [RESULTING OPTIONS]
--LC:\GNAT\2021\CursoADA\02.Subprogramas\obj\
--LC:\GNAT\2021\CursoADA\02.Subprogramas\obj\
+-LC:\GNAT\2021\CursoADA\03.EjercicioJuego\obj\
+-LC:\GNAT\2021\CursoADA\03.EjercicioJuego\obj\
 -LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
 -static
 -static-libgcc

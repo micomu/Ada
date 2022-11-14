@@ -1,0 +1,5 @@
+main.adb:61:82: error: formal parameter "Max" cannot be used before end of specification
+main.adb:62:82: error: formal parameter "Min" cannot be used before end of specification
+main.adb:62:100: error: missing "is"
+main.adb:66:17: error: too many arguments in call to "Get_Integer"
+main.adb:66:29: error: "Prompt" is undefined

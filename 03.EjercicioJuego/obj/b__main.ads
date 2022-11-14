@@ -40,7 +40,7 @@ package ada_main is
    pragma Export (C, main, "main");
 
    type Version_32 is mod 2 ** 32;
-   u00001 : constant Version_32 := 16#04ec46a0#;
+   u00001 : constant Version_32 := 16#0c9177e3#;
    pragma Export (C, u00001, "mainB");
    u00002 : constant Version_32 := 16#2e11c0b1#;
    pragma Export (C, u00002, "system__standard_libraryB");
@@ -328,38 +328,44 @@ package ada_main is
    pragma Export (C, u00143, "system__val_llfS");
    u00144 : constant Version_32 := 16#19055f44#;
    pragma Export (C, u00144, "system__exn_llfS");
-   u00145 : constant Version_32 := 16#0de7ae30#;
-   pragma Export (C, u00145, "ada__strings__fixedB");
-   u00146 : constant Version_32 := 16#64881af1#;
-   pragma Export (C, u00146, "ada__strings__fixedS");
-   u00147 : constant Version_32 := 16#bb264ce2#;
-   pragma Export (C, u00147, "ada__strings__searchB");
-   u00148 : constant Version_32 := 16#73987e07#;
-   pragma Export (C, u00148, "ada__strings__searchS");
-   u00149 : constant Version_32 := 16#a83b7c85#;
-   pragma Export (C, u00149, "system__concat_6B");
-   u00150 : constant Version_32 := 16#fd3d7ca6#;
-   pragma Export (C, u00150, "system__concat_6S");
-   u00151 : constant Version_32 := 16#608e2cd1#;
-   pragma Export (C, u00151, "system__concat_5B");
-   u00152 : constant Version_32 := 16#a8a4123a#;
-   pragma Export (C, u00152, "system__concat_5S");
-   u00153 : constant Version_32 := 16#932a4690#;
-   pragma Export (C, u00153, "system__concat_4B");
-   u00154 : constant Version_32 := 16#519e7a34#;
-   pragma Export (C, u00154, "system__concat_4S");
-   u00155 : constant Version_32 := 16#2b70b149#;
-   pragma Export (C, u00155, "system__concat_3B");
-   u00156 : constant Version_32 := 16#248a0db1#;
-   pragma Export (C, u00156, "system__concat_3S");
-   u00157 : constant Version_32 := 16#fd83e873#;
-   pragma Export (C, u00157, "system__concat_2B");
-   u00158 : constant Version_32 := 16#2d5a86c4#;
-   pragma Export (C, u00158, "system__concat_2S");
-   u00159 : constant Version_32 := 16#eca5ecae#;
-   pragma Export (C, u00159, "system__memoryB");
-   u00160 : constant Version_32 := 16#76873720#;
-   pragma Export (C, u00160, "system__memoryS");
+   u00145 : constant Version_32 := 16#f2c63a02#;
+   pragma Export (C, u00145, "ada__numericsS");
+   u00146 : constant Version_32 := 16#d976e2b4#;
+   pragma Export (C, u00146, "ada__numerics__float_randomB");
+   u00147 : constant Version_32 := 16#077f89fa#;
+   pragma Export (C, u00147, "ada__numerics__float_randomS");
+   u00148 : constant Version_32 := 16#0774605b#;
+   pragma Export (C, u00148, "system__random_numbersB");
+   u00149 : constant Version_32 := 16#19a1600c#;
+   pragma Export (C, u00149, "system__random_numbersS");
+   u00150 : constant Version_32 := 16#15692802#;
+   pragma Export (C, u00150, "system__random_seedB");
+   u00151 : constant Version_32 := 16#c3b30278#;
+   pragma Export (C, u00151, "system__random_seedS");
+   u00152 : constant Version_32 := 16#48583e4e#;
+   pragma Export (C, u00152, "ada__calendarB");
+   u00153 : constant Version_32 := 16#31350a81#;
+   pragma Export (C, u00153, "ada__calendarS");
+   u00154 : constant Version_32 := 16#24ec69e6#;
+   pragma Export (C, u00154, "system__os_primitivesB");
+   u00155 : constant Version_32 := 16#280734e2#;
+   pragma Export (C, u00155, "system__os_primitivesS");
+   u00156 : constant Version_32 := 16#2f9cb76c#;
+   pragma Export (C, u00156, "system__arith_64B");
+   u00157 : constant Version_32 := 16#9d9eabfb#;
+   pragma Export (C, u00157, "system__arith_64S");
+   u00158 : constant Version_32 := 16#05c60a38#;
+   pragma Export (C, u00158, "system__task_lockB");
+   u00159 : constant Version_32 := 16#4e70667a#;
+   pragma Export (C, u00159, "system__task_lockS");
+   u00160 : constant Version_32 := 16#b8c476a4#;
+   pragma Export (C, u00160, "system__win32__extS");
+   u00161 : constant Version_32 := 16#a5b55d2f#;
+   pragma Export (C, u00161, "system__val_unsS");
+   u00162 : constant Version_32 := 16#eca5ecae#;
+   pragma Export (C, u00162, "system__memoryB");
+   u00163 : constant Version_32 := 16#76873720#;
+   pragma Export (C, u00163, "system__memoryS");
 
    --  BEGIN ELABORATION ORDER
    --  ada%s
@@ -403,16 +409,6 @@ package ada_main is
    --  system.wch_jis%b
    --  system.wch_cnv%s
    --  system.wch_cnv%b
-   --  system.concat_2%s
-   --  system.concat_2%b
-   --  system.concat_3%s
-   --  system.concat_3%b
-   --  system.concat_4%s
-   --  system.concat_4%b
-   --  system.concat_5%s
-   --  system.concat_5%b
-   --  system.concat_6%s
-   --  system.concat_6%b
    --  system.exn_flt%s
    --  system.exn_lflt%s
    --  system.exn_llf%s
@@ -480,10 +476,7 @@ package ada_main is
    --  system.traceback.symbolic%s
    --  system.traceback.symbolic%b
    --  ada.exceptions%b
-   --  ada.strings.search%s
-   --  ada.strings.search%b
-   --  ada.strings.fixed%s
-   --  ada.strings.fixed%b
+   --  ada.numerics%s
    --  ada.strings.utf_encoding%s
    --  ada.strings.utf_encoding%b
    --  ada.strings.utf_encoding.wide_strings%s
@@ -496,6 +489,8 @@ package ada_main is
    --  ada.strings.text_buffers%b
    --  ada.strings.text_buffers.utils%s
    --  ada.strings.text_buffers.utils%b
+   --  system.arith_64%s
+   --  system.arith_64%b
    --  system.fat_flt%s
    --  system.fat_lflt%s
    --  system.fat_llf%s
@@ -512,15 +507,29 @@ package ada_main is
    --  ada.finalization%s
    --  system.file_io%s
    --  system.file_io%b
+   --  system.task_lock%s
+   --  system.task_lock%b
    --  system.val_flt%s
    --  system.val_lflt%s
    --  system.val_llf%s
+   --  system.val_uns%s
+   --  system.win32.ext%s
+   --  system.os_primitives%s
+   --  system.os_primitives%b
+   --  ada.calendar%s
+   --  ada.calendar%b
    --  ada.text_io%s
    --  ada.text_io%b
    --  ada.text_io.generic_aux%s
    --  ada.text_io.generic_aux%b
    --  ada.float_text_io%s
    --  ada.float_text_io%b
+   --  system.random_seed%s
+   --  system.random_seed%b
+   --  system.random_numbers%s
+   --  system.random_numbers%b
+   --  ada.numerics.float_random%s
+   --  ada.numerics.float_random%b
    --  main%b
    --  END ELABORATION ORDER
 
