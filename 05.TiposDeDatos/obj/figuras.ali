@@ -1,0 +1,31 @@
+V "GNAT Lib v2021"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_FLOATING_POINT
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U figuras%b		figuras.adb		f2b1e1c2 NE OO PK IL
+
+U figuras%s		figuras.ads		63518637 EE NE OO PK IL
+
+D figuras.ads		20221115081022 63518637 figuras%s
+D figuras.adb		20221115081022 91e067f5 figuras%b
+D system.ads		20210520051136 2ffa5114 system%s
+G a e
+G c Z s b [Omultiply figuras 6 13 none]
+G c Z s b [calcular_area_triangulo figuras 8 13 none]
+X 1 figuras.ads
+1K9*figuras 10l5 10e12 2|1b14 14l5 14t12
+3F9*Distancia<float> 6r27 7r28 8r46 9r49 2|3r24 3r42 8r46 9r49
+4F9*Area<float> 7r46 9r67 2|3r60 5r14 5r27 9r67
+6V14*"*"{4F9} 6>18 7>18 2|3b14 6l9 6t11 11s20
+6f18 Left{3F9} 2|3b18 5r19
+7f18 Right{3F9} 2|3b35 5r32
+8V13*Calcular_Area_Triangulo{4F9} 8>37 9>37 2|8b13 12l8 12t31
+8f37 Base{3F9} 2|8b37 11r15
+9f37 Altura{3F9} 2|9b37 11r22
+

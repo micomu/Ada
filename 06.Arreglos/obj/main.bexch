@@ -1,0 +1,20 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\GNAT\2021\CursoADA\06.Arreglos\default.gpr
+20221116073908 65f449ef35d7a4ed00d21ef893531f7b
+[BOUND OBJECT FILES]
+C:\GNAT\2021\CursoADA\06.Arreglos\obj\io.o
+C:\GNAT\2021\CursoADA\06.Arreglos\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\GNAT\2021\CursoADA\06.Arreglos\obj\
+-LC:\GNAT\2021\CursoADA\06.Arreglos\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

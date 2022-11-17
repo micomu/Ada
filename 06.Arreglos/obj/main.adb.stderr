@@ -1,0 +1,5 @@
+main.adb:53:19: error: illegal operand for array conversion
+main.adb:59:16: error: invalid use of subtype mark in expression or call
+main.adb:60:15: error: invalid operand types for operator "="
+main.adb:60:15: error: left operand has type "Nota" defined at line 43
+main.adb:60:15: error: right operand has type "Notas" defined at line 48
