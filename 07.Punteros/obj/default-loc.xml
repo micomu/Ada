@@ -1,0 +1,370 @@
+<?xml version="1.0"?>
+<Locations>
+  <Project>
+    <vfs_file>C:\GNAT\2021\CursoADA\07.Punteros\default.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\io.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\io.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 16" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 16" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 16" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 16" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 16" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 48" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 226" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 48" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 48" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 48" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 48" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 35" line=" 65" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 226" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 3" line=" 222" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\default.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 3" line=" 222" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 97" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 225" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 80" line=" 97" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 214" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 80" line=" 97" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 100" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 99" line=" 97" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 50" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 105" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 28" line=" 102" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 105" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 101" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 55" line=" 100" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 68" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 46" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\lib\gcc\x86_64-w64-mingw32\10.3.1\adainclude\g-busora.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 48" line=" 6" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 16" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\lib\gcc\x86_64-w64-mingw32\10.3.1\adainclude\a-charac.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 54" line=" 6" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 36" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\lib\gcc\x86_64-w64-mingw32\10.3.1\adainclude\a-chacon.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 28" line=" 102" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 82" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 11" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 11" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 219" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 219" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 129" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 6" line=" 221" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 219" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 94" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 90" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 91" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 96" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 58" line=" 90" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 89" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 92" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 137" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 33" line=" 134" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 63" line=" 142" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 33" line=" 134" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 128" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 137" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 130" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 137" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 71" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\lib\gcc\x86_64-w64-mingw32\10.3.1\adainclude\a-chahan.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 137" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 543" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\lib\gcc\x86_64-w64-mingw32\10.3.1\adainclude\a-chahan.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 217" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 45" line=" 216" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 28" line=" 165" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 56" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\io.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 186" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 179" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 32" line=" 142" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 42" line=" 98" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 32" line=" 142" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 206" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 202" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 209" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\default.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 209" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 202" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 36" line=" 196" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 47" line=" 207" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 63" line=" 193" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 196" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 202" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 201" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 202" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 63" line=" 194" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 204" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 207" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\CursoADA\07.Punteros\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\CursoADA\07.Punteros\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
