@@ -1,0 +1,26 @@
+V "GNAT Lib v2021"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U utilidad%b		utilidad.adb		12614fe6 NE OO PK
+
+U utilidad%s		utilidad.ads		c4ce1e67 BN EE NE OO PK
+
+D system.ads		20210520051136 2ffa5114 system%s
+D utilidad.ads		20221121090210 c4ce1e67 utilidad%s
+D utilidad.adb		20221121085950 d6af5181 utilidad%b
+G a e
+X 2 utilidad.ads
+1K9*Utilidad 10l5 10e13 3|1b14 12l5 12t13
+4+13 T 7r33 8r33 3|3r33 4r34 5r13
+7u14*Swap 7=19 8=18 3|3b14 9l8 9t12
+7*19 Left{4+13} 3|3b19 5r18 7m7
+8*18 Right{4+13} 3|4b19 7r15 8m7
+X 3 utilidad.adb
+5*7 Aux{2|4+13} 8r16
+
